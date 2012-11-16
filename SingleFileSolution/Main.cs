@@ -66,7 +66,7 @@ namespace SingleFileSolution
 		{
 			base.ViewDidLoad ();
 			
-			var view = new ContentView (UIColor.Blue, "A View");
+			var view = new ContentView (UIColor.Blue, "Hello World!");
 		
 			this.View = view;
 		}
