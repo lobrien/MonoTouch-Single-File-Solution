@@ -94,4 +94,7 @@
   <ItemGroup>
     <None Include="Info.plist" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="target800.png" />
+  </ItemGroup>
 </Project>
